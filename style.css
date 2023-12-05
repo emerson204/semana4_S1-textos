@@ -1,0 +1,22 @@
+/*Aca se aplicara esta fuente a todo el proyecto mientras exista y la estemos llamando*/
+* {
+  font-family: "Montserrat", sans-serif;
+}
+
+h1 {
+  text-transform: uppercase;
+}
+
+h2 {
+  font-size: 1.5rem;
+  text-decoration: underline;
+}
+
+p {
+  text-align: left;
+  font-weight: 500;
+}
+
+a {
+  text-decoration: none;
+}
